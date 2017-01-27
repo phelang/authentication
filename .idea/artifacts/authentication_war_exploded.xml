@@ -1,0 +1,87 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="authentication:war exploded">
+    <output-path>$PROJECT_DIR$/target/authentication</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="authentication" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.24" />
+          <element id="library" level="project" name="Maven: org.glassfish.core:glassfish:3.1.1" />
+          <element id="library" level="project" name="Maven: com.sun.enterprise:hk2-core:1.1.6" />
+          <element id="library" level="project" name="Maven: org.glassfish.hk2:class-model:1.1.6" />
+          <element id="library" level="project" name="Maven: com.sun.enterprise:config:1.1.6" />
+          <element id="library" level="project" name="Maven: com.sun.enterprise:auto-depends:1.1.6" />
+          <element id="library" level="project" name="Maven: org.glassfish.hk2.external:asm-all-repackaged:1.1.6" />
+          <element id="library" level="project" name="Maven: org.jvnet:tiger-types:1.2" />
+          <element id="library" level="project" name="Maven: org.glassfish.hk2.external:bean-validator:1.1.6" />
+          <element id="library" level="project" name="Maven: com.googlecode.jtype:jtype:0.1.0" />
+          <element id="library" level="project" name="Maven: org.glassfish:simple-glassfish-api:3.1.1" />
+          <element id="library" level="project" name="Maven: org.glassfish.main.resources:resources-connector:4.1.1" />
+          <element id="library" level="project" name="Maven: org.glassfish.hk2:hk2-core:2.4.0-b31" />
+          <element id="library" level="project" name="Maven: org.glassfish.hk2:hk2-locator:2.4.0-b31" />
+          <element id="library" level="project" name="Maven: org.glassfish.hk2.external:javax.inject:2.4.0-b31" />
+          <element id="library" level="project" name="Maven: org.glassfish.hk2.external:aopalliance-repackaged:2.4.0-b31" />
+          <element id="library" level="project" name="Maven: org.glassfish.hk2:hk2-api:2.4.0-b31" />
+          <element id="library" level="project" name="Maven: org.javassist:javassist:3.18.1-GA" />
+          <element id="library" level="project" name="Maven: org.glassfish.hk2:hk2-utils:2.4.0-b31" />
+          <element id="library" level="project" name="Maven: javax.inject:javax.inject:1" />
+          <element id="library" level="project" name="Maven: javax.el:javax.el-api:3.0.1-b03" />
+          <element id="library" level="project" name="Maven: org.glassfish.main.common:common-util:4.1.1" />
+          <element id="library" level="project" name="Maven: org.glassfish.main.admin:admin-util:4.1.1" />
+          <element id="library" level="project" name="Maven: org.glassfish.hk2:hk2:2.4.0-b31" />
+          <element id="library" level="project" name="Maven: org.glassfish.hk2:config-types:2.4.0-b31" />
+          <element id="library" level="project" name="Maven: org.glassfish.hk2:hk2-config:2.4.0-b31" />
+          <element id="library" level="project" name="Maven: org.glassfish.hk2:hk2-runlevel:2.4.0-b31" />
+          <element id="library" level="project" name="Maven: org.glassfish.main.admin:config-api:4.1.1" />
+          <element id="library" level="project" name="Maven: org.glassfish.main.common:internal-api:4.1.1" />
+          <element id="library" level="project" name="Maven: org.glassfish.main.security:security-services:4.1.1" />
+          <element id="library" level="project" name="Maven: org.glassfish.main.security:security:4.1.1" />
+          <element id="library" level="project" name="Maven: org.glassfish.main.security:ssl-impl:4.1.1" />
+          <element id="library" level="project" name="Maven: org.glassfish.main.external:ldapbp-repackaged:4.1.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:2.5.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.5.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.5.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.5.0" />
+          <element id="library" level="project" name="Maven: org.glassfish.main.resourcebase.resources:nucleus-resources:4.1.1" />
+          <element id="library" level="project" name="Maven: org.glassfish.main.deployment:deployment-common:4.1.1" />
+          <element id="library" level="project" name="Maven: org.glassfish.gmbal:gmbal:4.0.0-b001" />
+          <element id="library" level="project" name="Maven: org.glassfish.pfl:pfl-basic:4.0.0-b003" />
+          <element id="library" level="project" name="Maven: org.glassfish.pfl:pfl-tf:4.0.0-b003" />
+          <element id="library" level="project" name="Maven: org.glassfish.pfl:pfl-asm:4.0.0-b003" />
+          <element id="library" level="project" name="Maven: org.glassfish.pfl:pfl-dynamic:4.0.0-b003" />
+          <element id="library" level="project" name="Maven: org.glassfish.pfl:pfl-basic-tools:4.0.0-b003" />
+          <element id="library" level="project" name="Maven: org.glassfish.pfl:pfl-tf-tools:4.0.0-b003" />
+          <element id="library" level="project" name="Maven: org.glassfish.external:asm-all:3.3" />
+          <element id="library" level="project" name="Maven: org.glassfish.main.deployment:dol:4.1.1" />
+          <element id="library" level="project" name="Maven: javax.annotation:javax.annotation-api:1.2" />
+          <element id="library" level="project" name="Maven: javax.transaction:javax.transaction-api:1.2" />
+          <element id="library" level="project" name="Maven: javax.enterprise.deploy:javax.enterprise.deploy-api:1.6" />
+          <element id="library" level="project" name="Maven: org.eclipse.persistence:javax.persistence:2.1.0" />
+          <element id="library" level="project" name="Maven: javax.resource:javax.resource-api:1.7" />
+          <element id="library" level="project" name="Maven: javax.ejb:javax.ejb-api:3.2" />
+          <element id="library" level="project" name="Maven: org.glassfish.main.common:annotation-framework:4.1.1" />
+          <element id="library" level="project" name="Maven: org.glassfish.main.common:glassfish-api:4.1.1" />
+          <element id="library" level="project" name="Maven: org.glassfish.main.common:scattered-archive-api:4.1.1" />
+          <element id="library" level="project" name="Maven: org.glassfish.main.grizzly:nucleus-grizzly-all:4.1.1" />
+          <element id="library" level="project" name="Maven: org.glassfish.grizzly:grizzly-framework:2.3.23" />
+          <element id="library" level="project" name="Maven: org.glassfish.grizzly:grizzly-portunif:2.3.23" />
+          <element id="library" level="project" name="Maven: org.glassfish.grizzly:grizzly-http:2.3.23" />
+          <element id="library" level="project" name="Maven: org.glassfish.grizzly:grizzly-http-server:2.3.23" />
+          <element id="library" level="project" name="Maven: org.glassfish.main.grizzly:grizzly-config:4.1.1" />
+          <element id="library" level="project" name="Maven: org.glassfish.external:management-api:3.2.1-b002" />
+          <element id="library" level="project" name="Maven: javax.faces:jsf-api:2.1" />
+          <element id="library" level="project" name="Maven: javax.faces:jsf-impl:1.2_13" />
+          <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:3.1.0" />
+          <element id="library" level="project" name="Maven: com.sun.faces:jsf-api:2.2.0-m07" />
+          <element id="library" level="project" name="Maven: javax.servlet:servlet-api:2.5" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/authentication/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="authentication/web/Web" />
+    </root>
+  </artifact>
+</component>
